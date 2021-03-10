@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ExecApplication
+Class-Path: forms_rt.jar
+Class-Path: mysql-connector-java-8.0.18.jar
